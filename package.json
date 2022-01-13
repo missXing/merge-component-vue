@@ -1,0 +1,19 @@
+{
+  "name": "merge-component-vue",
+  "version": "1.0.0",
+  "description": "交并组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/missXing/merge-component-vue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/missXing/merge-component-vue/issues"
+  },
+  "homepage": "https://github.com/missXing/merge-component-vue#readme"
+}
